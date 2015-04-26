@@ -8,8 +8,8 @@ HR - Sample project for learning Orleans.
 <h2>Prerequisites</h2>
 
 Microsoft Project Orleans SDK
->= Visual Studio 2013
->= .NET 4.5
-Azure SDK for .NET
+Visual Studio 2013
+.NET 4.5 or higher
+Azure SDK for .NET (to use Orleans in the cloud)
 
-More info. on Orleans can be found at https://github.com/dotnet/orleans
+More info. can be found at https://github.com/dotnet/orleans
