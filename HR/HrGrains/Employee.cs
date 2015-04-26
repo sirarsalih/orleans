@@ -15,7 +15,7 @@ namespace HrGrains
 
      Then remove the private variables (transient storage) that you want persisted.
      
-     Without persistent storage, and reentrant:
+     Without persistent storage, and reentrant (to avoid deadlocks):
      
      [Reentrant]
      public class Employee : Grain, IEmployee
